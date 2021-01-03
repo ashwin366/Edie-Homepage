@@ -1,0 +1,25 @@
+*,
+*::before,
+*::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+
+}
+
+footer{
+  background-color: #100E1D;
+  color: #fff;
+  min-height: 385px;
+}
+
+.l-footer__developer{
+  color: #A9A9A9;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  line-height: 17.07px;
+  margin: 113px auto 29px;
+}
